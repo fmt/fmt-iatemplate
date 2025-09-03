@@ -1,6 +1,6 @@
 # fmt-iatemplate
 
-[iA Writer](https://ia.net/writer) is a cross-platform tool for focused writing, removing distractions and keeping the writing flow.
+[iA Writer](https://ia.net/writer) is a cross-platform app for focused writing, removing distractions and keeping the writing flow.
 
 The app is Markdown-based, lacks any plugins but [supports templating](https://ia.net/writer/support/preview/templates), allowing for adding plugins.
 
